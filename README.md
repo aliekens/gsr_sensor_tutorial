@@ -1,6 +1,6 @@
 # GSR sensor tutorial
 
-GSR staat voor Galvanic Skin Response en meet de geleiding van de huid. Met de [GSR sensor van Seeed](http://wiki.seeedstudio.com/Grove-GSR_Sensor/) meten we de weerstand van de huid tussen twee elektroden die je over 2 vingers kan schuiven. Sterke emoties kunnen je sympathische zenuwstelsel stimuleren, waardoor er meer zweet wordt afgescheiden door de zweetklieren. 
+GSR staat voor Galvanic Skin Response en meet de geleiding van de huid. Met de [GSR sensor van Seeed](http://wiki.seeedstudio.com/Grove-GSR_Sensor/) meten we de weerstand van de huid tussen twee elektroden die je over 2 vingers kan schuiven. Sterke emoties kunnen je sympathische zenuwstelsel stimuleren, waardoor er meer zweet wordt afgescheiden door de zweetklieren, en de weerstand van je huid verandert. 
 
 ![GSR sensor](images/gsr.jpg)
 
@@ -60,3 +60,7 @@ Gebruik een kleine schroevendraaier om de sensor te ijken zodat ie een output ge
 Onder `Tools > Serial Plotter` kan je een grafiek maken van de waarden van de sensor. Experimenteer met in te ademen, stress, etc om de metingen hoger en lager te laten bewegen.
 
 ![Serial monitor](images/monitor.png)
+
+## Moar
+
+Meer details kan je lezen in de [GSR tutorial van Seeed](http://wiki.seeedstudio.com/Grove-GSR_Sensor/) 
